@@ -1,0 +1,10 @@
+Aim is to get Microsoft Core Infrastructure Expert level certification.
+
+Certification path:
+1) 740 => Installation , Storage and Compute with Windows Server 2016
+2) 741 => Networking with Windows Server 2016
+3) 742 => Identity with Windows Server 2016
+
+This will get you to MCSA Windows Server 2016 
+
+=> Next is the Expert certification , lets get this much first 
