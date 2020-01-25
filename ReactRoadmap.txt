@@ -22,3 +22,10 @@ Backend Technology
   RestAPI
   GraphQL
   Apollo
+
+
+CI/CD
+--------
+1) Jenkins
+2) Vagrant
+3) Chef
