@@ -1,6 +1,6 @@
 Background Technology
 ---------------------
-1) Agile Development Practices
+1) Agile Development Practices [intial research complete]
 2) HTTP
 3) Web Content Accessibility Guidelines
 4) WebPack 
