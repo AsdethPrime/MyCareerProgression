@@ -1,0 +1,24 @@
+Background Technology
+---------------------
+1) Agile Development Practices
+2) HTTP
+3) Web Content Accessibility Guidelines
+4) WebPack 
+
+Design Specific
+---------------
+  1) Bootstrap
+  2) Material Design 
+  
+
+Javascript Advanced
+----------------
+  ESNext
+  Typescript
+  Progressive Web Apps 
+  
+Backend Technology
+------------------
+  RestAPI
+  GraphQL
+  Apollo
