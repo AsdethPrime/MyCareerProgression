@@ -9,3 +9,6 @@ http://presentation1.asdethprime.surge.sh/
 
 Simple SPA
 http://simplespa1.asdethprime.surge.sh/
+
+Coronavirus world tracker + video background
+http://corona.asdethprime.surge.sh/
