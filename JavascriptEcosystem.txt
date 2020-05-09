@@ -1,0 +1,14 @@
+Userinterface
+-------------
+- material-ui 
+- framer-motion
+- react-window
+- react-circle-slider
+- react-countup
+- react-window
+- react-recaptcha-v3
+
+Other Library
+-------------
+- axios 
+- dexie.js; dexie-observable
