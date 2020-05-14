@@ -12,3 +12,9 @@ http://simplespa1.asdethprime.surge.sh/
 
 Coronavirus world tracker + video background
 http://corona.asdethprime.surge.sh/
+
+Simple game, where page transition is controlled through change in state.
+You can go back and change your name without affecting the opponents level.
+http://game1.asdethprime.surge.sh/
+
+
