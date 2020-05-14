@@ -1,6 +1,6 @@
 Userinterface
 -------------
-- material-ui 
+- semantic-ui-react
 - framer-motion
 - react-window
 - react-circle-slider
@@ -8,6 +8,8 @@ Userinterface
 - react-window
 - react-recaptcha-v3
 - use-interval (to use setInterval in react) https://www.npmjs.com/package/use-interval
+- react-use (https://www.npmjs.com/package/react-use)
+- react-hook-forms (https://react-hook-form.com/get-started)
 
 Other Library
 -------------
