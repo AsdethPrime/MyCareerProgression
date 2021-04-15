@@ -1,5 +1,5 @@
 Todo App using IndexedDB
-Git: https://github.com/AsdethPrime/todo-project
+Git: https://github.com/AsdethPrime/todo-project.git
 Live Demo: http://indexeddb.asdethprime.surge.sh/
 
 Description
