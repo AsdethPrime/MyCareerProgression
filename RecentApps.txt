@@ -1,0 +1,11 @@
+Todo App using IndexedDB
+Git: https://github.com/AsdethPrime/todo-project
+Live Demo: http://indexeddb.asdethprime.surge.sh/
+
+Description
+  - Uses Indexed DB so achieves data persistence with purely client side 
+  - Allows you to add todo, and toggle or remove them in block 
+  - Doubleclick the column to resize the column
+  - Doubleclick cell item to edit inline
+  
+  
