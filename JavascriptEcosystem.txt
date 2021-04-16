@@ -15,3 +15,9 @@ Other Library
 -------------
 - axios 
 - dexie.js; dexie-observable
+
+
+Some awesome libraries
+----------------------
+1) react-konva => konvajs canvas graphics library 
+2) restful-react 
